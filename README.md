@@ -11,7 +11,7 @@
 ### 🚀 About me
 For several years, I have been designing and implementing modern data engineering and cloud solutions, collaborating with the logistics and finance sectors, among others. **I turn repetitive, multi-hour operational processes into reliable scripts that run in seconds.** My goal is to tailor architectures strictly to business objectives and budgets. 
 
-Currently, I work as an **Analyst - AI Decision Science at Accenture**[cite: 2], where I build reliable analytical pipelines and integrate artificial intelligence models into production environments.
+Currently, I work as an **Analyst - AI Decision Science at Accenture**, where I build reliable analytical pipelines and integrate artificial intelligence models into production environments.
 
 * 💡 **What I do:** ETL/ELT Pipelines, Cloud Architecture (Azure/GCP), RAG & AI Systems, Data Governance.
 * 🤝 **Collaboration:** Open to B2B / Freelance projects (automation, migrations, data integrations).
@@ -68,8 +68,3 @@ Currently, I work as an **Analyst - AI Decision Science at Accenture**[cite: 2],
 </details>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrelaO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrelaO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" height="150" alt="Top Languages"/>
-</div>
