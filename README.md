@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Witaj, jestem Olivier Trela 👋</h1>
+  <h1>Witaj przyjacielu, jestem Olivier Trela 👋</h1>
   <h3>Senior Data Engineer | Cloud Analytics & AI Solutions</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otrela)
