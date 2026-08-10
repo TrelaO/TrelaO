@@ -48,19 +48,25 @@ Currently, I work as an **Analyst - AI Decision Science at Accenture**[cite: 2],
 
 ### 📜 Experience & Certifications
 
-* **Databricks Certified Data Engineer Associate** 🏆[cite: 2]
-* **Microsoft Certified: Azure Data Fundamentals (DP-900)** 🏆[cite: 2]
-* **Certificate - Utilizing AI in Business Development (Google & SGH)** 🏆[cite: 2]
+<div align="center">
+  
+  [![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.credential.net/a4a7381e-cd43-4a65-af47-94715932e00d#acc.oCkc2EKM)
+  
+  [![Azure](https://img.shields.io/badge/Microsoft-DP--900%20Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pl-pl/users/oliviertrela-6490/credentials/fc4b3b679452cb96?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  
+  [![Google](https://img.shields.io/badge/Google%20%26%20SGH-AI%20in%20Business%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cdn.umiejetnoscijutra.pl/certificates/409188c4-b7b6-494a-82b4-aee25abb639f)
+
+</div>
+
+<br>
 
 <details>
 <summary><b>💼 View Employment History (Click)</b></summary>
 
-* **Analyst - AI Decision Science @ Accenture Poland** *(05.2026 - Present)*[cite: 2]
-* **Junior Lean and Online Improvements Consultant @ LEAN TO WIN** *(04.2025 - 12.2025)*[cite: 2]
-* **Database Administrator / Data Engineer @ Stellantis** *(02.2024 - 12.2024)*[cite: 2]
+* **Analyst - AI Decision Science @ Accenture Poland** *(05.2026 - Present)*
+* **Junior Lean and Online Improvements Consultant @ LEAN TO WIN** *(04.2025 - 12.2025)*
+* **Database Administrator / Data Engineer @ Stellantis** *(02.2024 - 12.2024)*
 </details>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TrelaO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" height="150" alt="GitHub Stats"/>
